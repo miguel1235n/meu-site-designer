@@ -17,7 +17,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="container mx-auto flex items-center justify-between py-4 px-6">
         <a href="#inicio" className="font-heading text-2xl md:text-3xl font-semibold tracking-wide text-foreground">
-          Miguel Designer
+          MR Designer
         </a>
 
         <nav className="hidden md:flex items-center gap-8">

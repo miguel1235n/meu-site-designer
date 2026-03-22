@@ -20,20 +20,20 @@ const ContactSection = () => (
         <div className="flex flex-col md:flex-row items-center justify-center gap-10 mb-12">
           <div className="flex items-center gap-3 text-primary-foreground/70">
             <Phone size={16} strokeWidth={1} />
-            <span className="font-body text-sm">+55 (11) 99999-9999</span>
+            <span className="font-body text-sm">+55 (85) 99446-7887</span>
           </div>
           <div className="flex items-center gap-3 text-primary-foreground/70">
             <Mail size={16} strokeWidth={1} />
-            <span className="font-body text-sm">contato@migueldesigner.com</span>
+            <span className="font-body text-sm">migueldefreitasrebelo@gmail.com</span>
           </div>
           <div className="flex items-center gap-3 text-primary-foreground/70">
             <MapPin size={16} strokeWidth={1} />
-            <span className="font-body text-sm">São Paulo, Brasil</span>
+            <span className="font-body text-sm">Fortaleza, Brasil</span>
           </div>
         </div>
 
         <a
-          href="https://api.whatsapp.com/send?phone=5511999999999&text=Olá, gostaria de um orçamento para o meu projeto."
+          href="https://api.whatsapp.com/send?phone=5585994467887&text=Olá, gostaria de um orçamento para o meu projeto."
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block font-body text-xs letter-spaced-sm border border-primary-foreground/50 text-primary-foreground px-10 py-4 hover:bg-primary-foreground hover:text-foreground transition-all duration-500"

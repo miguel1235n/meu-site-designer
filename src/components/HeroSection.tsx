@@ -19,7 +19,7 @@ const slides = [
   },
   {
     image: hero3,
-    subtitle: "Bem-vindo ao Estúdio Miguel Designer",
+    subtitle: "Bem-vindo ao Estúdio MR Designer",
     title: "Onde a arte\nencontra o lar",
     desc: "Em qualquer lugar do Brasil.",
   },
