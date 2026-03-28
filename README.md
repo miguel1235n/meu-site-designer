@@ -1,3 +1,9 @@
-# Welcome to your Lovable project
+# MR Designer | Interiores e Consultoria
 
-TODO: Document your project here
+Site profissional da *MR Designer*, focado em design de interiores e projetos personalizados em Fortaleza.
+
+## Tecnologias utilizadas:
+* React
+* Tailwind CSS
+* Vercel (Hospedagem)
+*
